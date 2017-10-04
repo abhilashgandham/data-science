@@ -1,0 +1,27 @@
+given columns:
+
+1) Survived: if the passenger is survived or not
+
+2) Pclass: passenger class in which he is travelling. he might be travelling in 1st 2nd and
+
+3rd classes
+
+fill the missing value with 2nd classs
+
+3)Sex: two options male and female
+
+4)Age: Number
+
+5)SibSp: Number of siblings&spouses present
+
+6)Parch: Number of parents+children present
+
+7)Ticket: Ticket number
+
+
+
+8)Fare: Ticket fare
+
+9)Cabin : Cabin number
+
+10)Embarked : Point of Embarkation   C = Cherbourg, Q = Queenstown, S = Southampton
